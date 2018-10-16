@@ -1,0 +1,10 @@
+
+
+The easiest way to save the packages from an environment to be installed in another computer is:
+
+$ conda list -e > req.txt
+
+then you can install the environment using
+
+$ conda create -n new environment --file req.txt
+
