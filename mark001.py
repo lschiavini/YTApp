@@ -5,7 +5,7 @@ yt = YouTube(str(input("Enter the video link: ")))
 #yt = pytube.YouTube(link)
 
 #setpath
-path = '/Users/Skira/Desktop/PythonPj/YTApp'
+path = '/home/skira/Downloads'
 stream = yt.streams.first()
 stream.download(path)
 

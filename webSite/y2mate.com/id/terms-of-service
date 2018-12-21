@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Y2mate.com Terms of Service - The best Youtube converter online</title>
+<meta name="description" content="Download video, mp3 dari YouTube untuk PC, ponsel, android, ios gratis. Dukungan men-download semua format Video: Mp4, Mp3, 3GP, WebM, video hd dari YouTube" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="robots" content="index, follow">
+
+<meta itemprop="name" content="Y2mate.com Terms of Service - The best Youtube converter online" />
+<meta itemprop="description" content="Download video, mp3 dari YouTube untuk PC, ponsel, android, ios gratis. Dukungan men-download semua format Video: Mp4, Mp3, 3GP, WebM, video hd dari YouTube" />
+<meta itemprop="image" content="//y2mate.com/themes/images/256x256.png" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Y2mate.com Terms of Service - The best Youtube converter online" />
+<meta property="og:description" content="Download video, mp3 dari YouTube untuk PC, ponsel, android, ios gratis. Dukungan men-download semua format Video: Mp4, Mp3, 3GP, WebM, video hd dari YouTube" />
+<meta property="og:image" content="//y2mate.com/themes/images/256x256.png" />
+<link rel="canonical" href="https://y2mate.com/site/termsofservice?hl=en" />
+<link rel="dns-prefetch" href="//youtubepp.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//getbootstrap.com">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//ssl.google-analytics.com">
+<link rel="dns-prefetch" href="//s7.addthis.com">
+<link rel="dns-prefetch" href="//m.addthis.com">
+<meta name="google-site-verification" content="PBAZjp9e-aOq3EJVlhg_MAsYxyhBeNITt2KDHCz0A9s" />
+<link rel="icon" href="//y2mate.com/themes/images/logo.png" />
+<link rel="stylesheet" type="text/css" href="//y2mate.com/themes/bootstrap/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="//y2mate.com/themes/css/style.css?v=1.3.1" />
+<style>
+        .i-auto>div, #___ytsubscribe_0{height: auto !important;}
+        .i-auto>div>iframe, #___ytsubscribe_0>iframe{height: auto !important;}
+    </style>
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js" async="async"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js" async="async"></script>
+    <![endif]-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="1dd928ec4012ff1990e251a0-text/javascript"></script>
+
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js" type="1dd928ec4012ff1990e251a0-text/javascript"></script>
+<script type="1dd928ec4012ff1990e251a0-text/javascript">
+        var base_url = 'https://y2mate.com/';
+        var lang = 'id';
+        var video_id, video_service,video_extractor ;
+    </script>
+<link rel="manifest" href="/manifest.json">
+
+</head>
+<body id="bootstrap-themes" class="swag-line">
+<div class="container-overflow-wrap">
+<nav class="navbar navbar-tall navbar-full" role="navigation">
+<div class="container">
+<div class="navbar-header">
+<div class="navbar-brand logo-cont">
+<a class="" href="/id" style="padding: 0;">
+<img src="//y2mate.com/themes/images/logo.png" alt="Logo y2mate.com" style="height:46px;" />
+<span id="logo-name">
+y2mate.com
+</span>
+</a>
+</div>
+<button type="button" class="navbar-toggle collapsed pull-right" data-toggle="collapse" data-target="#global-nav">
+<span class="sr-only">Y2Mate.com</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="global-nav">
+<div class="navbar-right">
+<ul class="nav navbar-nav">
+<li>
+<a href="/id/youtube-converter">YouTube Converter</a>
+</li>
+<li>
+<a href="/id/youtube-to-mp3">YouTube to MP3 Converter</a>
+</li>
+<li>
+<a href="/id/faq">FAQ</a>
+</li>
+<li>
+<a href="/id/terms-of-service">Copyright Notice</a>
+</li>
+<li class="dropdown">
+<a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Indonesian <span class="caret"></span></a>
+<ul class="dropdown-menu" id="menu-lang">
+<li><a data-lang="en" href="/site/termsofservice?hl=en">English</a></li>
+<li><a data-lang="de" href="/site/termsofservice?hl=de">Deutsch</a></li>
+<li><a data-lang="es" href="/site/termsofservice?hl=es">Español</a></li>
+<li><a data-lang="fr" href="/site/termsofservice?hl=fr">Français</a></li>
+<li><a data-lang="hi" href="/site/termsofservice?hl=hi">हिन्दी / Hindī</a></li>
+<li><a data-lang="id" href="/site/termsofservice?hl=id">Indonesian</a></li>
+<li><a data-lang="it" href="/site/termsofservice?hl=it">Italiano</a></li>
+<li><a data-lang="jp" href="/site/termsofservice?hl=jp">日本語</a></li>
+<li><a data-lang="kr" href="/site/termsofservice?hl=kr">한국어</a></li>
+<li><a data-lang="mm" href="/site/termsofservice?hl=mm">Myanmar (မြန်မာ)</a></li>
+<li><a data-lang="my" href="/site/termsofservice?hl=my">Malay</a></li>
+<li><a data-lang="ph" href="/site/termsofservice?hl=ph">Filipino</a></li>
+<li><a data-lang="pt" href="/site/termsofservice?hl=pt">Português</a></li>
+<li><a data-lang="ru" href="/site/termsofservice?hl=ru">Русский</a></li>
+<li><a data-lang="tr" href="/site/termsofservice?hl=tr">Türkçe</a></li>
+<li><a data-lang="vi" href="/site/termsofservice?hl=vi">Tiếng Việt</a></li>
+<li><a data-lang="zh-cn" href="/site/termsofservice?hl=zh-cn">简体中文</a></li>
+<li><a data-lang="zh-tw" href="/site/termsofservice?hl=zh-tw">繁體中文</a></li>
+<li><a data-lang="sa" href="/site/termsofservice?hl=sa">العربية</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+<section id="container">
+<div class="container">
+<div class="row">
+<div class="col-sm-12" style="background: #ffffff">
+<div class="blog-post" style="margin-top: 39px; min-height: 500px">
+<p><strong>Term Of Service</strong></p>
+<p><strong> </strong></p>
+<p>PLEASE READ THIS STATEMENT OF PRIVACY PRACTICES CAREFULLY BEFORE USING OUR SERVICE</p>
+<p>Muvi ("Our", "We" or "Us") is comprised of web pages containing information provided by us. Your access to the Site is offered to you conditioned on your acceptance of these Terms of Service together with our statement of privacy practices, which is incorporated herein by this reference and found at ("Terms"). If the terms of this agreement are considered an offer, acceptance is expressly limited to such terms. If you do not unconditionally agree to all the terms and conditions of this agreement, you have no right to use the Site/Client and any other linked services.</p>
+<p>1. ACCESS TO THE SERVICES</p>
+<p>Please note that we reserves the right, in its sole discretion, to change these Terms at any time upon notice. You can review the most current version of Terms at any time. The updated Terms are binding on you on the version date indicated in the updated Terms. If you do not agree to the updated Terms, you must stop using the Muvi service. Your continued use of the service after the effective date will constitute your acceptance of the updated Terms.</p>
+<p>2. CHANGES TO THE SITE/CLIENT</p>
+<p>You may use the Site/Client if and when it is available. We do not guarantee availability of the Site/Client or any particular feature. A particular feature may be a pre-release version and may not work correctly or in the way a final version might work. We may significantly change the final version or decide not to release it. We reserve the right to change, remove, delete, restrict or block access to, charge for, or stop providing all or any part of the Site/Client at any time without notice.</p>
+<p>3. CONTENT</p>
+<p>Muvi Site/Client and any other linked services must only be used for private purposes. Any commercial use of Muvi is strictly forbidden and will be pursued in a court of law. It is the only purpose of Muvi to create a copy of downloadable online-content for the private use of the user ("fair use"). Any further use of the content transmitted by Muvi, particularly but not exclusively making the content publicly accessible or using it commercially, must be agreed upon with the holder of the rights of the respective downloaded content. The user bears full responsibility for all actions related to the data transmitted by Muvi. Muvi does not grant any rights to the contents, as it only acts as a technical service provider.</p>
+<p>The Site/Client or the apps in the Site/Client, may contain links to third party websites or clients("Linked Sites/Client").The Linked Sites/Client are not under our control and we are not responsible for any Linked Site, including any content contained in a Linked Site or any changes or updates to a Linked Site. We provide links to you only as a convenience, and the inclusion of any link does not imply our endorsement of the site or any association with its operators. The user carries full responsibility for checking the legitimacy of his use of Muvi. Muvi only provides the technical service. Hence, Muvi does not take liability towards the user or any third party for the permissibility of downloading content through Muvi.</p>
+<p>You represent and warrant to us that: (A) you are an individual (i.e., not a corporation) and you are of legal age to form a binding contract or have your parent’s permission to do so, and you are at least 13 years or age or older; (B) all registration information you submit is accurate and truthful; and (C) you will maintain the accuracy of such information. You also certify that you are legally permitted to use and access the services and take full responsibility for the selection and use of and access to the services. This agreement is void where prohibited by law, and the right to access the services is revoked in such jurisdictions.</p>
+<p>4. WARRANTY DISCLAIMER</p>
+<p>To the maximum extent permitted by applicable law, the Site and Content are provided “AS IS,” “WITH ALL FAULTS,” and “AS AVAILABLE” and the entire risk of use and performance, remains with you. Muvi, its suppliers, and licensors DO NOT MAKE ANY representations, warranties, or conditions, express, implied, or statutory and hereby disclaim any implied warranties of merchantability, merchantable quality, fitness for a particular purpose, title, quiet Enjoyment, or non-infringement. In particular, Muvi, its suppliers, and licensors make no warranty that the Site or Content: (A) will meet your requirements; (B) will be available or provided on an uninterrupted, timely, secure, or error-free basis; (C) any information or content obtained through the SITE will be accurate, complete, or reliable; or (D) that any defects or errors therein will be corrected. All Content you download or obtain through the Site is accessed at your own risk, and you will be solely responsible for any damage or loss that results therefrom. You may have additional rights under your local laws that THESE TERMS cannot change. In particular, to the extent local legislation implies statutory terms which cannot be excluded, THOSE terms are deemed incorporated into this document but Muvi’s liability for a breach of THOSE statutory implied terms is limited in accordance with and to the extent permissible under THAT legislation.</p>
+<p>5. CONTACT</p>
+<p>If you have any questions, complaints, or claims with respect to the Services, you may contact us at please Email us <a href="/cdn-cgi/l/email-protection#4e272028210e233b38272f3e3e602d2123"><span class="__cf_email__" data-cfemail="137a7d757c537e66657a7263633d707c7e">[email&#160;protected]</span></a></p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer class="footer clearfix footer-borderless">
+<p>@2016 y2mate.com</p>
+<ul class="footer-list">
+<li class="footer-list-item">
+<a class="footer-list-link" href="/id/about-us">About</a>
+</li>
+<li class="footer-list-item">
+<a class="footer-list-link" href="/id/contact-us">Contact</a>
+</li>
+<li class="footer-list-item">
+<a class="footer-list-link" href="/id/terms-of-service">Terms of Service</a>
+</li>
+<li class="footer-list-item">
+<a class="footer-list-link" href="/id/privacy-policy">Privacy Policy</a>
+</li>
+</ul>
+</footer>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="1dd928ec4012ff1990e251a0-text/javascript">
+    $('html').removeClass('no-js').addClass('js');
+</script>
+<script src="https://content-cdn.y2mate.com/themes/js/common.js?v=1.3.4" async="async" type="1dd928ec4012ff1990e251a0-text/javascript"></script>
+<script src="//y2mate.com/themes/js/suggeser.js?v=1.3" async="async" type="1dd928ec4012ff1990e251a0-text/javascript"></script>
+<script type="1dd928ec4012ff1990e251a0-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-84863187-8', 'auto');
+        ga('send', 'pageview');
+    </script>
+<script src="//fortpush.com/ntfc.php?p=1608660" data-cfasync="false" async="async"></script>
+<script type="1dd928ec4012ff1990e251a0-text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5800a568d40f92ed" async="async"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/2448a7bd/cloudflare-static/rocket-loader.min.js" data-cf-nonce="1dd928ec4012ff1990e251a0-" defer=""></script></body>
+</html>
